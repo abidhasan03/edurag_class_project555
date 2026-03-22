@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What are the three broad categories of mechanical engineering sub-disciplines?",
+    "answer": "The three broad categories of mechanical engineering sub-disciplines are System Design, Energy, and Biomechanical Engineering."
+  },
+  {
+    "question": "What are the fundamental mechanics courses in mechanical engineering?",
+    "answer": "The fundamental mechanics courses are Statics, Dynamics, Thermodynamics, Solid Mechanics/Materials, and Fluid Mechanics."
+  },
+  {
+    "question": "Why is thermodynamics important in mechanical engineering?",
+    "answer": "Thermodynamics is important because it seeks to find the lowest energy state of a system and identify the values of extensive thermodynamic variables that lead to this state."
+  },
+  {
+    "question": "What does the particle assumption in statics entail?",
+    "answer": "The particle assumption assumes a particle has mass but ignores its geometry for simplification in calculations."
+  },
+  {
+    "question": "What is meant by the term 'rigid body' in statics?",
+    "answer": "A rigid body is an idealization where the object does not deform under force, meaning it maintains its shape regardless of applied forces."
+  },
+  {
+    "question": "What is the mathematical expression for moment in statics?",
+    "answer": "Moment is expressed as M = Fd, where F is force and d is the perpendicular distance from the pivot point."
+  },
+  {
+    "question": "What is the spring force formula in mechanical systems?",
+    "answer": "The spring force is calculated using F = k\u0394x, where k is the spring constant and \u0394x is the displacement."
+  },
+  {
+    "question": "What should be the total sum of forces in a static equilibrium?",
+    "answer": "The total sum of forces in static equilibrium should be zero: \u03a3F = 0."
+  },
+  {
+    "question": "What are some common careers in mechanical engineering related to system design?",
+    "answer": "Common careers include robotics, aerospace, automotive, defense, and electronics."
+  },
+  {
+    "question": "Why is defining a coordinate system important in statics problems?",
+    "answer": "Defining a coordinate system is important for consistency in problem-solving and ensures accurate application of equilibrium equations."
+  },
+  {
+    "question": "What are some engineering disciplines listed in the 'Introduction to Engineering' text?",
+    "answer": "Disciplines include Aerospace, Agricultural, Biomedical, Chemical, Civil, Computer, Electrical, Environmental, Industrial, and Mechanical Engineering."
+  },
+  {
+    "question": "What is the key difference between professional and blue-collar work mentioned in engineering education?",
+    "answer": "Professional work typically involves using the brain rather than physical labor, though both types of work are equally respected."
+  },
+  {
+    "question": "What is the 'Gym for Your Mind' analogy used for in engineering education?",
+    "answer": "It compares learning to working out, emphasizing practice, effort, and persistence to develop intellectual capabilities."
+  },
+  {
+    "question": "What are non-cognitive skills critical to engineering success?",
+    "answer": "Important non-cognitive skills include grit, conscientiousness, and planning."
+  },
+  {
+    "question": "What is the main lesson from Alfred Nobel\u2019s legacy?",
+    "answer": "That ethical considerations in engineering are important, and one's work can have unintended consequences."
+  },
+  {
+    "question": "Why is MATLAB emphasized in the engineering curriculum?",
+    "answer": "MATLAB is emphasized because it's a powerful tool for data analysis, modeling, and algorithm development essential for engineers."
+  },
+  {
+    "question": "What is the recommended way to learn software like MATLAB or Excel?",
+    "answer": "The recommended way is to practice hands-on, using the software alongside reading the material."
+  },
+  {
+    "question": "What is the benefit of pursuing a Master\u2019s in Mechanical Engineering?",
+    "answer": "A Master\u2019s opens more job opportunities and typically leads to a higher starting salary."
+  },
+  {
+    "question": "What is the terminal degree in Mechanical Engineering and its focus?",
+    "answer": "The terminal degree is a PhD, which is highly research-focused and often leads to academic careers."
+  },
+  {
+    "question": "What is the professional importance of learning how to write emails?",
+    "answer": "Writing professional emails helps in effective communication, crucial for maintaining relationships and credibility."
+  },
+  {
+    "question": "What role does humility play in an engineering professional setting?",
+    "answer": "Humility helps in building strong relationships and receiving mentorship or opportunities from more experienced individuals."
+  },
+  {
+    "question": "What does the 'It\u2019s Not What You Know, It\u2019s Who You Know' phrase mean for engineers?",
+    "answer": "It highlights the importance of networking and professional relationships in career success beyond just technical skills."
+  },
+  {
+    "question": "Why should engineers care about ethical dilemmas?",
+    "answer": "Because their creations can impact society significantly, and ethical foresight helps prevent harm and uphold responsibility."
+  },
+  {
+    "question": "Why is it advised not to choose engineering just for money?",
+    "answer": "Engineering is demanding, and pursuing it without genuine interest can lead to dissatisfaction and failure."
+  },
+  {
+    "question": "What are the essential steps in solving a statics problem?",
+    "answer": "Steps include idealizing the system, defining coordinates, drawing a free-body diagram, writing equilibrium equations, and solving for unknowns."
+  }
+]

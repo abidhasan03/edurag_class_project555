@@ -1,0 +1,14 @@
+torch
+transformers
+accelerate
+bitsandbytes
+faiss-cpu
+xformers
+peft
+datasets
+sentence-transformers
+Pillow
+numpy
+tqdm
+matplotlib
+pytesseract
